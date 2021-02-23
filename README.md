@@ -1,4 +1,2 @@
 # springboot-helloworld
-To access app through url access `http://<server-ip>:<port>/springboot-helloworld`                                                                                           
-
-
+To access app use this url: `http://<server-ip>:<port>/springboot-helloworld`                                                                                           
