@@ -13,5 +13,4 @@ FROM tomcat:8.5-alpine
 
 COPY --from=builder /app/target/springboot-helloworld.war webapps/
 
-EXPOSE 8080
 CMD ["catalina.sh", "run"]
